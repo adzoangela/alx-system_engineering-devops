@@ -1,0 +1,3 @@
+#! /bin/sh
+echo "the groups the current user is part of: $(id -Gn)" 
+
