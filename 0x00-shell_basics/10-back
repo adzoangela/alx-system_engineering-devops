@@ -1,5 +1,2 @@
-#! /bin/sh 
+#!/bin/bash 
 cd - 
-echo "Current directory: $(pwd)"
-cd "$(pwd -P)" 
-
