@@ -1,7 +1,2 @@
-#! /bin/sh 
-ls -al 
-cd ..
+#!/bin/bash 
 ls -al
-cd /boot
-ls -al 
-
