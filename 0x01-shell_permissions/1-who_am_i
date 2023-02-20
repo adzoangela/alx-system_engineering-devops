@@ -1,3 +1,2 @@
-#! /bin/sh 
+#!/bin/bash
 echo "the effective username of the current user is: $(id -un)"
-
